@@ -1,4 +1,11 @@
-# hello and bonjour world
+# [proofreading](/proofreading.html)
+
+# [editing](/editing.html)
+
+# [content](/content.html)
+
+
+
 
 time to play with GitHub Pages
 
@@ -11,11 +18,6 @@ using basic inbuilt styling for now
 
 ### font
 
-§ [proofreading](/proofreading.html)
-
-§ [editing](/editing.html)
-
-§ [content](/content.html)
 
 ¶
 
