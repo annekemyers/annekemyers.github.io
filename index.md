@@ -10,3 +10,15 @@ using basic inbuilt styling for now
 - redo index.md file
 
 ### font
+
+[proofreading](/proofreading.html)
+
+[editing](/editing.html)
+
+[content](/content.html)
+
+*_____________________________________________________*
+
+[about](/about.html)
+
+[contact](/contact.html)
