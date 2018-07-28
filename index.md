@@ -1,11 +1,11 @@
-# [proofreading](/proofreading.html)
+[proofreading](/proofreading.html)
 
-# [editing](/editing.html)
+[editing](/editing.html)
 
-# [content](/content.html)
+[content](/content.html)
 
 
-
+# the situation
 
 time to play with GitHub Pages
 
@@ -18,9 +18,8 @@ using basic inbuilt styling for now
 
 ### font
 
+[about](/about.html)
 
 ¶
-
-[about](/about.html)
 
 [contact](/contact.html)
