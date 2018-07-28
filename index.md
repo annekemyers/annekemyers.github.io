@@ -15,7 +15,7 @@ using basic inbuilt styling for now
 
 ===highlighted text? or not===
 
-<span style="background-color: green">highlight text feature could be cool</span>
+<span style="background-color: lightcyan">highlight text feature could be cool</span>
 
 <body>
   <h1 style="color:IndianRed"># this heading could be Indian Red in colour</h1>
