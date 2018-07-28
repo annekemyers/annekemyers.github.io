@@ -18,10 +18,10 @@ using basic inbuilt styling for now
 
 ### font
 
-[about](/about.html)
+[about](/about.md)
 
 ¶
 
-[contact](/contact.html)
+[contact](/contact.md)
 
 #### plan footer
