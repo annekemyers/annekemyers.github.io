@@ -23,3 +23,5 @@ using basic inbuilt styling for now
 ¶
 
 [contact](/contact.html)
+
+#### plan footer
