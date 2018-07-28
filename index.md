@@ -24,4 +24,8 @@ using basic inbuilt styling for now
 
 [contact](/contact.md)
 
+![profile pic of Anneke](/assets/am-profile-pic.jpg)
+
 #### plan footer
+
+![a pilcrow symbol](/assets/am favicon raleway.png)
