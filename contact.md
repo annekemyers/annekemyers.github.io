@@ -1,7 +1,7 @@
 
 
 
-Email me at [anneke@fastmail.com](mailto:anneke@fastmail.com).
+You can email me at [anneke@fastmail.com](mailto:anneke@fastmail.com).
 
 Ta.
 
