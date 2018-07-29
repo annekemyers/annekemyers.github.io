@@ -6,6 +6,3 @@ If you'd like to contact me, you can email me at [anneke@fastmail.com](mailto:an
 Ta.
 
 ¶
-
-
-![](/assets/am favicon raleway.png)
