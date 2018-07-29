@@ -17,6 +17,17 @@ using basic inbuilt styling for now
 
 <span style="background-color: lightcyan">highlight text feature could be cool</span>
 
+
+<span style="background-color: turquoise">highlight text feature could be cool</span>
+
+<span style="background-color: lightsteelblue">highlight text feature could be cool</span>
+
+<span style="background-color: palevioletred">highlight text feature could be cool</span>
+
+<span style="background-color: orange">highlight text feature could be cool</span>
+
+<span style="background-color: greenyellow">highlight text feature could be cool</span>
+
 <span style="background-color: palegreen">highlight text feature could be cool</span>
 
 <span style="background-color: lightgreen">highlight text feature could be cool</span>
